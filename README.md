@@ -145,12 +145,6 @@ python nexo.py
 
 ---
 
-## 📄 License
-
-This project is open source under the **MIT License** — free to use and modify with attribution.
-
----
-
 ## ⭐ Support
 
 If you like **Nexo**, please consider giving it a ⭐ on GitHub —
